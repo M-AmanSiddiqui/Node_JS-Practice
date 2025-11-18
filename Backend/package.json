@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Learning backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-AmanSiddiqui/Node_JS-Practice.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Aman Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-AmanSiddiqui/Node_JS-Practice/issues"
+  },
+  "homepage": "https://github.com/M-AmanSiddiqui/Node_JS-Practice#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
