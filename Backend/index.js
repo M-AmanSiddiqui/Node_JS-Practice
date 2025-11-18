@@ -13,6 +13,10 @@ app.get('/twitter', (req, res) =>{
     res.send('Hello Backend')
 })
 
+app.get('/aman',(req,res) => {
+    res.send('Hello Aman')
+})
+
 app.get('/login', (req,res) => {
     res.send('<h1> Please Login </h1>')
 })
