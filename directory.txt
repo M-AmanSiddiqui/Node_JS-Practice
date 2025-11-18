@@ -1,0 +1,11 @@
+ Files: src                 app                        constant
+        DB Connects         Config Cookie              DB-Name
+
+ Directory Structure: 
+ - DB
+ - Models
+ - Controllers
+ - Routes
+ - Middlewares
+ - Utils
+ - More Depends
